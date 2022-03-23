@@ -1,0 +1,16 @@
+2
+Cannondale Bicycle
+furnace Room
+TREK943793793
+true
+500
+03/22/1995
+Aurora Cycle, Seattle
+Vintage bike
+E:\HomeJava\Inventory Photos\bike.jpg
+Clara
+Under my desk
+KING5430
+true
+0.00
+10/14/1998
